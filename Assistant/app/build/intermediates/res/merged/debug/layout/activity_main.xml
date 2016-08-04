@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/historytext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="History"/>
+
+    <Button
+        android:id="@+id/callid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/historytext"
+        android:text="Call"
+        android:onClick="callh"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/appid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/historytext"
+        android:text="App"
+        android:onClick="apph"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/messageid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/historytext"
+        android:text="Message"
+        android:onClick="messageh"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:id="@+id/analysistext"
+        android:layout_below="@+id/callid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Analysis"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/analysistext"
+        android:text="CallA"
+        android:onClick="calla"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

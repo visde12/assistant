@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/build/intermediates/res/merged/debug/layout/activity_messageactivity.xml",
+        "source": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/src/main/res/layout/activity_messageactivity.xml"
+    },
+    {
+        "merged": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/build/intermediates/res/merged/debug/layout/activity_appusageactivity.xml",
+        "source": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/src/main/res/layout/activity_appusageactivity.xml"
+    },
+    {
+        "merged": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/build/intermediates/res/merged/debug/layout/analysis.xml",
+        "source": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/src/main/res/layout/analysis.xml"
+    },
+    {
+        "merged": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/build/intermediates/res/merged/debug/layout/callhistory.xml",
+        "source": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/src/main/res/layout/callhistory.xml"
+    },
+    {
+        "merged": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/build/intermediates/res/merged/debug/layout/row_layout.xml",
+        "source": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/src/main/res/layout/row_layout.xml"
+    },
+    {
+        "merged": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/cyberrspiritt/Android/AndroidReadCallHistory/app/src/main/res/layout/activity_main.xml"
+    }
+]
